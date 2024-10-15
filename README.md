@@ -1,4 +1,5 @@
-# AI-Customer-Segmentation
+# AI-Customer-Segmentation-Project
+
 ## K-Means Clustering of Customer Data
 
 This project demonstrates the use of K-Means clustering to segment customers based on their annual income and spending score. The dataset used is `Avm_Customers.csv`, which contains information about customers' annual income and their spending score.
